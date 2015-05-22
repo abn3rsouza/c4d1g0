@@ -1,8 +1,4 @@
 Introdução
 ============
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas posuere cursus. Nam placerat ultricies sem non suscipit. Fusce nec sollicitudin eros. Sed eget augue dui. Vestibulum ultrices metus justo, quis luctus nulla commodo at. Ut lobortis mi tortor, eu egestas risus rhoncus vel. Suspendisse sodales nec odio id porttitor. In non condimentum erat, vitae molestie sapien. Curabitur sagittis metus placerat risus tincidunt maximus ultrices ac mauris. Mauris euismod ante ut mi efficitur maximus. Mauris at erat dui.
-
-Quisque aliquam viverra sapien a condimentum. Praesent non lacinia ante. Nunc condimentum libero orci, vitae sagittis purus pharetra non. Morbi ac tempor felis, placerat accumsan eros. Duis ac vestibulum est. Nunc viverra nunc vel nibh scelerisque, non aliquam sem posuere. Cras ut feugiat ante, id fringilla turpis. Quisque faucibus tincidunt massa nec ultricies. In ac consectetur dui, iaculis vestibulum quam. Nulla non felis non sem euismod gravida. Ut ut risus commodo, tincidunt felis vitae, sodales est. Nam non feugiat nulla. 
-
+Eu resolvi comprar um cachorro alado, para poder mergulhar no meu jardim enquanto ele cavava buracos profundos e possivelmente também tapados, mas ele veio num funil enlatado, e eu não tinha abridor de garrafas. Revoltado, eu cantei um hino de Ivete Sangalo, e triste eu fiquei no escuro. Enquanto ia para lá, eu voltava de cá, e acolá chegava, partindo de lá a cá no meu alfabeto músical que vai de um à decassílabo. Inconstitucionalisticamente percebi que não havia nada além de tu, somente o que havia escrito antes, confuso, e anticonstitucional eu dancei o créu.
 .. index:: lorem, ipsum
